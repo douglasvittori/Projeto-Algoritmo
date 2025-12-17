@@ -1,7 +1,7 @@
 # 📐 Algoritmo Neural Simples com Matrizes
 Estudo de Matemática Aplicada e Álgebra Linear
 
-Este projeto foi desenvolvido com fins educacionais como parte do Projeto 2 do curso de Matemática e Estatística Aplicada para Machine Learning e Inteligência Artificial, oferecido pela Data Science Academy (DSA). O foco principal do projeto é o entendimento prático da matemática por trás de algoritmos de Machine Learning, com ênfase em multiplicação de matrizes e na implementação manual de um algoritmo simples, porém funcional, construído do zero.
+Este projeto foi desenvolvido com fins educacionais como parte do curso de Matemática e Estatística Aplicada para Machine Learning e Inteligência Artificial, oferecido pela Data Science Academy (DSA). O foco principal do projeto é o entendimento prático da matemática por trás de algoritmos de Machine Learning, com ênfase em multiplicação de matrizes e na implementação manual de um algoritmo simples, porém funcional, construído do zero.
 
 ---
 
